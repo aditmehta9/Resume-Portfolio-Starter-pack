@@ -4,15 +4,15 @@
     "occupation": "Open Source Contributor | Full Stack Developer",
     "description": "I am Open Source Enthusiast.",
     "image": "dp.jpeg",
-    "bio": "Hi there! I am Adit! I am a Full Stack Web Developer. I've been coding for over 4 years now. For Frontend development, I use ReactJS because it is easy to learn, it has a massive active community, and it accelerates the development process. I have developed many projects which use Node.JS as a backend. I like to use Node.JS because it shines in building fast, scalable network applications, offers benefits in performance, faster development, and other perks. I am an open-source enthusiast. I have contributed to many open source organizations. Some of them are Google/ShakaPlayer, AnitaB, Chapel.",
+    "bio": "Hi there! I am Adit! I am currently Full Stack Software Dev Co-op at Igloo Software, and I am currently employed as Coding Tutor at the Inspiration learning centre. For Frontend development, I use ReactJS because it is easy to learn, it has a massive active community, and it accelerates the development process. I have developed many projects which use Node.JS as a backend. I like to use Node.JS because it shines in building fast, scalable network applications, offers benefits in performance, faster development, and other perks. I am an open-source enthusiast. I have contributed to many open source organizations. Some of them are Google/ShakaPlayer, AnitaB, Chapel.",
     "contactmessage": "",
     "email": "aditmehta9@gmail.com",
-    "phone": "+91 7698459935",
+    "phone": "+1-647-949-3627",
     "address": {
-      "street": "C-902, Garden City,",
-      "city": "Rajkot",
-      "state": "Gujarat, India",
-      "zip": "360005"
+      "street": "202, 133 Wynford Drive",
+      "city": "Toronto",
+      "state": "Ontario, Canada",
+      "zip": "M3C0J5"
     },
     "website": "https://www.linkedin.com/in/adit-mehta-169137159/",
     "resumedownload": "https://drive.google.com/file/d/1Y8ELZ3ay0V72khZ4nic5feXJSVzjBqP2/view?usp=sharing",
@@ -43,10 +43,16 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
+        "school": "Lambton College",
+        "degree": "Post Graduate in Computer Software Database Development",
+        "graduated": "Expeted Aug. 2023",
+        "description": "GPA: 3.65/4"
+      },
+      {
         "school": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)",
         "degree": "Bachelor of Technology (B.Tech) in ICT",
         "graduated": "May 2021",
-        "description": "CPI: 8.28/10"
+        "description": "CPI: 8.31/10"
       },
       {
         "school": "Utkarsh School of Excellence",
@@ -63,9 +69,27 @@
     ],
     "work": [
       {
+        "company": "Igloo Software",
+        "title": "Full Stack Software Dev Co-op",
+        "years": "Sept. 2022 - Dec. 2022",
+        "description": "Start of the Co-op term, Tech Onboarding, understanding the code of the flagship product."
+      },
+      {
+        "company": "Inspiration Learning Centre",
+        "title": "Coding Tutor",
+        "years": "Jan. 2022 - Present",
+        "description": "Teaching Student Competitive Coding in C++ and Python for Canadian Computing Competition. "
+      },
+      {
+        "company": "SPACE AGE",
+        "title": "Full Stack Blockchain Engineer",
+        "years": "Mar. 2022 - June 2022",
+        "description": "Developing API for lazy minting using Moralis and developing the front end of the website for Heroes of Ukraine."
+      },
+      {
         "company": "ShakaPlayer-Google Open Source Repository",
         "title": "Open Source Contributor",
-        "years": "Mar. 2021",
+        "years": "Mar. 2021 - April 2021",
         "description": "Added replay icon instead of play when the video ends. Fixed bugs in Docs generated using JSDoc-API. Found and fixed bug of resolution change with language change. Found valid enhancements in UI."
       },
       {
@@ -82,6 +106,10 @@
       }
     ],
     "skills": [
+      {
+        "name": "Python",
+        "level": "85%"
+      },
       {
         "name": "C++",
         "level": "85%"
@@ -159,7 +187,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "text": "Adit is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
         "user": "Sanket Chaudhari"
       },
       {
